@@ -7,9 +7,11 @@ A collection of developer skills for SAP Customer Experience (CX) developers.
 ## Skills
 
 ### sap-cx-developer-companion
-A combined developer assistant covering SAP Commerce Cloud OCC API exploration,
-CAP CDS code generation, and CX error diagnosis.
-
+A combined developer assistant covering 
+- **CX API Explorer** — SAP Commerce OCC, Sales Cloud v2, Service Cloud API discovery
+- **CAP CDS Assistant** — CDS entity/annotation/service generation for CX extensions
+- **CX Error Resolver** — Diagnose and fix Commerce, Sales/Service Cloud, CAP errors
+  
 ## Author
 [Abinaya Srinivasan] — SAP CX & Commerce Full Stack Developer
 
