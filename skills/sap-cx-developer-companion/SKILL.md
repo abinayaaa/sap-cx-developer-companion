@@ -4,7 +4,7 @@ description: >-
   Combined developer assistant for SAP CX covering three capabilities: CX API Explorer (finds and scaffolds OCC, Sales Cloud v2, Service Cloud API calls from api.sap.com), CAP CDS Assistant (generates CDS entities, annotations, service definitions, and extension patterns using cap.cloud.sap), and CX Error Resolver (diagnoses errors from Commerce Cloud, Sales/Service Cloud v1/v2, CAP, and BTP using public SAP Help and KBAs). Public sources only, no auth required. Activate when a developer asks: "find Commerce API", "OCC endpoint", "Sales Cloud v2 API", "scaffold HTTP request", "generate CDS", "write CDS model", "CDS annotation", "scaffold CAP service", "CAP entity", "what does this error mean", "SAP Commerce error", "CAP error", "Sales Cloud error", or asks about CX API discovery, CDS modeling, or SAP CX error diagnosis.
 allowed-tools: web_search
 metadata:
-  author: SAP CX Developer
+  author: Abinaya Srinivasan
   version: 1.0.0
   tags: sap cx commerce-cloud cap cds sales-cloud service-cloud occ-api developer error-resolver btp fiori
 ---
